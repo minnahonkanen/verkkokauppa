@@ -1,0 +1,94 @@
+.top-bar {
+    padding: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+
+.top-bar-section ul li a:hover {
+    border-radius: 15px;
+}
+
+.shopname {
+    width: 80%;
+    padding: 80px 0 30px 0;
+    margin: auto;
+}
+
+.note {
+    margin: auto;
+    width: 80%;
+}
+
+#close:hover {
+    cursor: pointer;
+}
+
+input.searchfield {
+    border-radius: 15px;
+}
+
+.search-button {
+    font-weight: bold;
+}
+
+.fa {
+    display: initial;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 30px 0 30px 0;
+}
+
+.single-product {
+    width: 100%;
+    margin: auto;
+}
+
+#cakesDiv {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.cake {
+    width: 45%;
+    min-height: 45%;
+    margin-bottom: 30px;
+}
+
+.pricing-table li {
+    min-height: 40px;
+}
+
+.description {
+    font-size: 14px !important;
+}
+
+.product-number {
+    background-color: #F6F6F6 !important;
+    font-style: italic;
+}
+
+.buy {
+    margin-top: 30px;
+}
+
+button.save {
+    font-weight: bold;
+}
+
+button.sort {
+    float: right;
+    width: auto;
+    padding: 10px !important;
+    margin-right: 10px;
+}
+
+ul.large-1 {
+    display: inline-block;
+}
